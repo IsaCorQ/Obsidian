@@ -10,12 +10,12 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
-Marco de trabajo ágil que organiza el desarrollo en ciclos cortos llamados Sprints, con roles y eventos definidos para facilitar la colaboración y la entrega constante.
+Velocidad del equipo medida como la cantidad de Story Points completados en un Sprint. Ayuda a predecir cuánto trabajo puede realizarse en futuros Sprints.
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
+- [[Sprint planning]]
 
 ## 💡 Personal Insight (Opcional)
 - 
